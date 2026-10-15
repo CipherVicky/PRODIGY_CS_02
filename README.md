@@ -1,4 +1,4 @@
-# PRODIGY_CS_02
+# Prodigy Infotech CS Internship — Task 02
 
 # 🔐 Pixel Manipulation for Image Encryption
 
@@ -294,4 +294,5 @@ Contributions and suggestions are welcome.
 2. Create a feature branch.
 3. Implement and test your changes.
 4. Submit a pull request.
+   
 ⭐ If you find this project useful, consider giving the repository a star!
